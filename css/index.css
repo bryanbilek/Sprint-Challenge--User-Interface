@@ -144,3 +144,168 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+
+
+/*Home Page CSS Styles*/
+
+.navbar {
+    display: flex;
+    justify-content: center;
+}
+
+.header-container .nav-container .navbar ul {
+    display: flex;
+    justify-content: space-between;
+    width: 800px;
+}
+
+.nav-container .navbar a {
+    color: black;
+    text-decoration: none;
+}
+
+.parent-jumbo-image {
+    display: flex;
+    justify-content: center;
+    margin: 1%;
+}
+
+.boxes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: space-between;
+}
+
+.boxes .box1 {
+    background-color: teal;
+    width: 17%;
+    margin: 1%;
+    padding: 1%;
+    text-align: center;
+}
+
+.boxes .box2 {
+    background-color: gold;
+    width: 17%;
+    margin: 1%;
+    padding: 1%;
+    text-align: center;
+}
+
+.boxes .box3 {
+    background-color: cadetblue;
+    width: 17%;
+    margin: 1%;
+    padding: 1%;
+    text-align: center;
+}
+
+.boxes .box4 {
+    background-color: coral;
+    width: 17%;
+    margin: 1%;
+    padding: 1%;
+    text-align: center;
+}
+
+.boxes .box5 {
+    background-color: crimson;
+    width: 17%;
+    margin: 1%;
+    padding: 1%;
+    text-align: center;
+}
+
+.boxes .box6 {
+    background-color: forestgreen;
+    width: 17%;
+    margin: 1%;
+    padding: 1%;
+    text-align: center;
+}
+
+.boxes .box7 {
+    background-color: darkorchid;
+    width: 17%;
+    margin: 1%;
+    padding: 1%;
+    text-align: center;
+}
+
+.boxes .box8 {
+    background-color: hotpink;
+    width: 17%;
+    margin: 1%;
+    padding: 1%;
+    text-align: center;
+}
+
+.boxes .box9 {
+    background-color: indigo;
+    width: 17%;
+    margin: 1%;
+    padding: 1%;
+    text-align: center;
+}
+
+.boxes .box10 {
+    background-color: dodgerblue;
+    width: 17%;
+    margin: 1%;
+    padding: 1%;
+    text-align: center;
+}
+
+
+/*About Page CSS*/
+
+.about-portion {
+    padding: 0 2%;
+    margin-bottom: 2%;
+}
+
+hr {
+    border-top: 2px dotted black;
+}
+
+.middle-page-boxes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: space-between;
+    
+}
+
+.middle-page-box-children {
+    width: 50%;
+    padding: 2% 1%;
+}
+
+.middle-page-box-children button {
+    margin: 3% 0;
+    border-radius: 15px;
+    border: 1px solid black;
+    color: black;
+    background-color: white;
+    font-size: 14px;
+    padding: 3%;
+    text-align: center;
+}
+
+.middle-page-box-children h1 {
+    margin-top: 2%;
+}
+
+.middle-page-box-children p {
+    margin-bottom: 1%;
+}
+
+.bottom-section {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 0 2% 0;
+    padding: 0 2%;
+}
+
