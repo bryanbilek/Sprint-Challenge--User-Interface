@@ -158,6 +158,7 @@ footer nav a {
     display: flex;
     justify-content: space-between;
     width: 800px;
+    align-items: center;
 }
 
 .nav-container .navbar a {
@@ -182,7 +183,7 @@ footer nav a {
     background-color: teal;
     width: 17%;
     margin: 1%;
-    padding: 1%;
+    padding: 5%;
     text-align: center;
 }
 
@@ -190,7 +191,7 @@ footer nav a {
     background-color: gold;
     width: 17%;
     margin: 1%;
-    padding: 1%;
+    padding: 5%;
     text-align: center;
 }
 
@@ -198,7 +199,7 @@ footer nav a {
     background-color: cadetblue;
     width: 17%;
     margin: 1%;
-    padding: 1%;
+    padding: 5%;
     text-align: center;
 }
 
@@ -206,7 +207,7 @@ footer nav a {
     background-color: coral;
     width: 17%;
     margin: 1%;
-    padding: 1%;
+    padding: 5%;
     text-align: center;
 }
 
@@ -214,7 +215,7 @@ footer nav a {
     background-color: crimson;
     width: 17%;
     margin: 1%;
-    padding: 1%;
+    padding: 5%;
     text-align: center;
 }
 
@@ -222,7 +223,7 @@ footer nav a {
     background-color: forestgreen;
     width: 17%;
     margin: 1%;
-    padding: 1%;
+    padding: 5%;
     text-align: center;
 }
 
@@ -230,7 +231,7 @@ footer nav a {
     background-color: darkorchid;
     width: 17%;
     margin: 1%;
-    padding: 1%;
+    padding: 5%;
     text-align: center;
 }
 
@@ -238,7 +239,7 @@ footer nav a {
     background-color: hotpink;
     width: 17%;
     margin: 1%;
-    padding: 1%;
+    padding: 5%;
     text-align: center;
 }
 
@@ -246,7 +247,7 @@ footer nav a {
     background-color: indigo;
     width: 17%;
     margin: 1%;
-    padding: 1%;
+    padding: 5%;
     text-align: center;
 }
 
@@ -254,7 +255,7 @@ footer nav a {
     background-color: dodgerblue;
     width: 17%;
     margin: 1%;
-    padding: 1%;
+    padding: 5%;
     text-align: center;
 }
 
